@@ -1,0 +1,18 @@
+# Ignore environment variables and secrets
+.env
+*.key
+secrets/
+
+# Ignore Python cache (useful if you back up your custom Python scripts)
+__pycache__/
+*.pyc
+.venv/
+
+# Ignore text editor temporary swap files
+*.swp
+*~
+.vscode/
+
+# Ignore general Linux system junk
+.DS_Store
+Thumbs.db
