@@ -18,11 +18,13 @@ If you want to replicate this setup on a new machine, follow these steps:
 git clone [https://github.com/baruahanishxX/mint-dotfiles.git](https://github.com/baruahanishxX/mint-dotfiles.git) ~/dotfiles
 cd ~/dotfiles
 
-2. Install GNU Stow (if not already installed):
+**2. Install GNU Stow (if not already installed):**
+```bash
 sudo apt update && sudo apt install stow
 
 3. Stow the configs:
 Use stow to create symlinks in your ~/.config directory. For example, to install the Kitty and Polybar configs:
+```bash
 stow kitty
 stow polybar
 
