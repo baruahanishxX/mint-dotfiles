@@ -26,7 +26,7 @@ If you want to replicate this setup on a new machine, follow these steps:
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/baruahanishxX/mint-dotfiles.git](https://github.com/baruahanishxX/mint-dotfiles.git) ~/dotfiles
+git clone https://github.com/baruahanishxX/mint-dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ```
 **2. Install GNU Stow (if not already installed):**
