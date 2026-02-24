@@ -32,7 +32,6 @@ stow kitty
 stow polybar
 ```
 
-** The Code contains some AI slop!!
 
 
 
