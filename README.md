@@ -11,6 +11,14 @@ Welcome to my personal dotfiles repository! This repo contains the configuration
 * ## Screenshot
 <img width="1366" height="768" alt="for github" src="https://github.com/user-attachments/assets/30f8ec37-ee08-49f7-96b9-e0bda249a89f" />
 
+## 📋 Requirements
+
+Before stowing these configs, ensure you have the following installed:
+
+* **GNU Stow**: For managing the symlinks.
+* **Kitty**: The terminal emulator.
+* **Polybar**: The status bar (ensure you have `polybar` installed via your package manager).
+* **JetBrainsMono Nerd Font**: Required for the icons and text in both Kitty and Polybar to render correctly.
 
 ##  Installation
 
